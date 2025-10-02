@@ -4,5 +4,6 @@ public class Test{
         System.out.println("User 2 added new line");
 
         System.out.println("User 3 added new line");
+        System.out.println("This is new line added by user 2");
     }
 }
